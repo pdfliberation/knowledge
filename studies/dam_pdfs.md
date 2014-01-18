@@ -17,6 +17,6 @@ Data Access Matrix for PDF, or "DAM PDF", will work in the background with PDF L
 
 Capture and share your team's activity in 3 simple steps:
 
-1. Fork [activity tracker gist](https://gist.github.com/gregelin/8488150)
+1. Visit [activity tracker gist](https://gist.github.com/gregelin/8488150) and fork it
 2. Edit your version to share what your team's activity
 3. There's no third step
