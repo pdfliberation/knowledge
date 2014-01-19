@@ -30,6 +30,8 @@ A list of tools and resources for working with PDF files. Adapted from https://p
 
 - [PDFTables](https://github.com/okfn/pdftables) - Table extraction tool based on PDFMiner and also written in Python.
 
+- [Doc⚡split](https://documentcloud.github.io/docsplit) - A command-line utility and Ruby library for splitting apart documents into their component parts: searchable UTF-8 plain text via OCR if necessary, page images or thumbnails in any format, PDFs, single pages, and document metadata (title, author, number of pages...)
+
 - [DocHive](https://github.com/raleighpublicrecord/dochive) - Open source tool based on Tesseract and ImageMagick that extracts data from scanned PDFs.
 
 - [Node PDF Extract](https://github.com/nisaacson/pdf-extract) - Javascript library that reads PDFs with embedded text as well as scanned PDFs. Built on both Poppler and Tesseract.
