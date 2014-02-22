@@ -36,6 +36,10 @@ A list of tools and resources for working with PDF files. Adapted from https://p
 
 - [Node PDF Extract](https://github.com/nisaacson/pdf-extract) - Javascript library that reads PDFs with embedded text as well as scanned PDFs. Built on both Poppler and Tesseract.
 
+- [Ocrad](http://www.gnu.org/software/ocrad/) - "GNU Ocrad is an OCR (Optical Character Recognition) program based on a feature extraction method. It reads images in pbm (bitmap), pgm (greyscale) or ppm (color) formats and produces text in byte (8-bit) or UTF-8 formats."
+
+- [GOCR](http://jocr.sourceforge.net/) - "GOCR is an OCR (Optical Character Recognition) program, developed under the GNU Public License. It converts scanned images of text back to text files."
+
 ## Low-cost commercial PDF technologies:
 
 - [Adobe Acrobat XI Pro](http://www.adobe.com/products/acrobat/) - The original general purpose GUI-based PDF tool that can convert to PDFs to Excel, Word, Powerpoint and HTML.
