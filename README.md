@@ -3,6 +3,12 @@ knowledge
 
 A place to collect and share knowledge about liberating data from PDFs
 
-Contains:
+## Resources
 
 - A [resources list](Resources.md).
+
+
+## Unofficial Docs
+
+- [Poppler](unofficlal-docs/Poppler.md)
+- [tesseract](unofficlal-docs/tesseract.md)
