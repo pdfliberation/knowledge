@@ -10,5 +10,5 @@ A place to collect and share knowledge about liberating data from PDFs
 
 ## Unofficial Docs
 
-- [Poppler](unofficlal-docs/Poppler.md)
-- [tesseract](unofficlal-docs/tesseract.md)
+- [Poppler](unofficial-docs/Poppler.md)
+- [tesseract](unofficial-docs/tesseract.md)
