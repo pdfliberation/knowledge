@@ -40,6 +40,18 @@ A list of tools and resources for working with PDF files. Adapted from https://p
 
 - [GOCR](http://jocr.sourceforge.net/) - "GOCR is an OCR (Optical Character Recognition) program, developed under the GNU Public License. It converts scanned images of text back to text files."
 
+## OCR Technologies:
+
+- [Tesseract](https://code.google.com/p/tesseract-ocr/) - Open source OCR library. This tool does not work directly with PDFs, but a shell script or package can be used to convert a PDF to a TIFF which can be analyzed with Tesseract.
+    - A [Java interface](http://sourceforge.net/projects/tess4j/) to Tesseract is available.
+    - [Tesserwrap](https://tesserwrap.readthedocs.org/) is a Python ctypes wrapper for tesseract.
+
+- [ABBYY FineReader](http://finereader.abbyy.com/) - Commercial OCR tool which works directly with PDFs. ABBYY also offers a cloud [OCR API](http://ocrsdk.com/)
+
+- [Nuance OmniPage](http://www.nuance.com/for-individuals/by-product/omnipage/index.htm) - Commercial OCR tool which works directly with PDFs.
+
+- [Captricity](http://captricity.com/captricity-at-a-glance/) - Web based service that uses a mixture of technology and human labor to convert uploaded documents into structured data.
+
 ## Low-cost commercial PDF technologies:
 
 - [Adobe Acrobat XI Pro](http://www.adobe.com/products/acrobat/) - The original general purpose GUI-based PDF tool that can convert to PDFs to Excel, Word, Powerpoint and HTML.
@@ -82,18 +94,9 @@ A list of tools and resources for working with PDF files. Adapted from https://p
 
 - [IText, a Java PDF Library](http://sourceforge.net/projects/itext/)
 
+## Enterprise-Level ETL Solutions
 
-## OCR Technologies:
-
-- [Tesseract](https://code.google.com/p/tesseract-ocr/) - Open source OCR library. This tool does not work directly with PDFs, but a shell script or package can be used to convert a PDF to a TIFF which can be analyzed with Tesseract.  Also, a [Java interface](http://sourceforge.net/projects/tess4j/) to Tesseract is available.
-
-- [ABBYY FineReader](http://finereader.abbyy.com/) - Commercial OCR tool which works directly with PDFs. ABBYY also offers a cloud [OCR API](http://ocrsdk.com/)
-
-- [Nuance OmniPage](http://www.nuance.com/for-individuals/by-product/omnipage/index.htm) - Commercial OCR tool which works directly with PDFs.
-
-- [Captricity](http://captricity.com/captricity-at-a-glance/) - Web based service that uses a mixture of technology and human labor to convert uploaded documents into structured data.
-
-## Enterprise-Level (Cost > $1000) Extract Transfer Load (ETL) Solutions that Directly Read PDFs
+Enterprise-Level (Cost > $1000) Extract Transfer Load (ETL) Solutions that Directly Read PDFs
 
 - [Datawatch Modeler (Formerly Known as Monarch)](http://www.datawatch.com/form-page)
 
@@ -105,7 +108,7 @@ A list of tools and resources for working with PDF files. Adapted from https://p
 
 ## Reviews, Listings and Comparisons:
 
-- Duke University’s Reporters Lab contains [reviews of many of the tools listed above](http://reviews.reporterslab.org/search?q=&type=products&category=pdf-tools-2011-11-09)
+- Duke University's Reporters Lab contains [reviews of many of the tools listed above](http://reviews.reporterslab.org/search?q=&type=products&category=pdf-tools-2011-11-09)
 
 - PDFJailbreak provides [a list of tools](http://pdfjailbreak.com/tools) for extracting data from scientific papers in PDF format.
 
