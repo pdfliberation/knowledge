@@ -140,3 +140,8 @@ Ahmad Abdulkader, Chris Newton, Dan Johnson, Dar-Shyang Lee, David Eger, Eric Wi
 Licensed under the Apache License, Version 2.0
 
 04/09/2012
+
+
+# Other resources
+
+- Zdenko Podobný's tests of tesseract 3.0.x: <http://www.sk-spell.sk.cx/tesseract-ocr-en>
