@@ -6,7 +6,7 @@ A list of tools and resources for working with PDF files. Adapted from https://p
 
 - [Apache PDFBox](http://pdfbox.apache.org/) - General purpose PDF library written in Java.
 
-- [Tabula](http://tabula.nerdpower.org) - Open source PDF table extraction tool written in Java and Ruby by Manuel Aristarán.  Makes calls to PDFBox. Table extraction powered by [http://github.com/jazzido/tabula-extractor]().
+- [Tabula](https://tabula.technology/) - Open source PDF table extraction tool written in Java and Ruby by Manuel Aristarán.  Makes calls to PDFBox. Table extraction powered by [https://github.com/tabulapdf/tabula]().
 
 - [PDF Extraction Toolkit](https://github.com/tamirhassan/pdfxtk/) - Java framework built on PDFBox by Tamir Hassan for performing document analysis of PDF files and creating custom conversion methods to HTML and other formats.
 
